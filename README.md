@@ -14,11 +14,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<div align="center">
+  <img src="preview/preview-desktop.jpeg" alt="Desktop view" width=""/>
+</div>
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor---qr-code-component-solution-mQoJ6YrjSJ)
 - Live Site URL: [GitHub Pages]()
 
 ## Author
