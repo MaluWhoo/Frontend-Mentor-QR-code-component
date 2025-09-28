@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <div align="center">
   <img src="images/solution-previw-desktop.jpeg" alt="Desktop view" width="750"/>
-  <img src="images/solution-previw-mobile.jpeg" alt="Mobile view" width="200"/>
+  <img src="images/solution-previw-mobile.jpeg" alt="Mobile view" width="170"/>
 </div>
 
 ### Links
