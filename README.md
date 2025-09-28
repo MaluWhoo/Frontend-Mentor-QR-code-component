@@ -15,13 +15,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 <div align="center">
-  <img src="preview/preview-desktop.jpeg" alt="Desktop view" width=""/>
+  <img src="images/solution-previw-desktop.jpeg" alt="Desktop view" width="750"/>
+  <img src="images/solution-previw-mobile.jpeg" alt="Mobile view" width="200"/>
 </div>
 
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor---qr-code-component-solution-mQoJ6YrjSJ)
-- Live Site URL: [GitHub Pages]()
+- Live Site URL: [GitHub Pages](https://maluwhoo.github.io/Frontend-Mentor-QR-code-component/)
 
 ## Author
 
